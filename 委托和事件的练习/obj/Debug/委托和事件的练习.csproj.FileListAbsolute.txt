@@ -1,0 +1,15 @@
+F:\练习\电商\小练习\委托和事件的练习\bin\Debug\委托和事件的练习.exe.config
+F:\练习\电商\小练习\委托和事件的练习\bin\Debug\委托和事件的练习.exe
+F:\练习\电商\小练习\委托和事件的练习\bin\Debug\委托和事件的练习.pdb
+F:\练习\电商\小练习\委托和事件的练习\obj\Debug\委托和事件的练习.exe
+F:\练习\电商\小练习\委托和事件的练习\obj\Debug\委托和事件的练习.pdb
+C:\Users\yanh\Desktop\小练习\委托和事件的练习\bin\Debug\委托和事件的练习.exe.config
+C:\Users\yanh\Desktop\小练习\委托和事件的练习\bin\Debug\委托和事件的练习.exe
+C:\Users\yanh\Desktop\小练习\委托和事件的练习\bin\Debug\委托和事件的练习.pdb
+C:\Users\yanh\Desktop\小练习\委托和事件的练习\obj\Debug\委托和事件的练习.exe
+C:\Users\yanh\Desktop\小练习\委托和事件的练习\obj\Debug\委托和事件的练习.pdb
+C:\Users\yanh\Desktop\Latest\小练习\委托和事件的练习\bin\Debug\委托和事件的练习.exe.config
+C:\Users\yanh\Desktop\Latest\小练习\委托和事件的练习\bin\Debug\委托和事件的练习.exe
+C:\Users\yanh\Desktop\Latest\小练习\委托和事件的练习\bin\Debug\委托和事件的练习.pdb
+C:\Users\yanh\Desktop\Latest\小练习\委托和事件的练习\obj\Debug\委托和事件的练习.exe
+C:\Users\yanh\Desktop\Latest\小练习\委托和事件的练习\obj\Debug\委托和事件的练习.pdb

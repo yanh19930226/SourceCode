@@ -1,0 +1,17 @@
+F:\练习\电商\小练习\事件的标准用法1\bin\Debug\事件的标准用法1.exe.config
+F:\练习\电商\小练习\事件的标准用法1\bin\Debug\事件的标准用法1.exe
+F:\练习\电商\小练习\事件的标准用法1\bin\Debug\事件的标准用法1.pdb
+F:\练习\电商\小练习\事件的标准用法1\obj\Debug\事件的标准用法1.exe
+F:\练习\电商\小练习\事件的标准用法1\obj\Debug\事件的标准用法1.pdb
+C:\Users\yanh\Desktop\小练习\事件的标准用法1\bin\Debug\事件的标准用法1.exe.config
+C:\Users\yanh\Desktop\小练习\事件的标准用法1\bin\Debug\事件的标准用法1.exe
+C:\Users\yanh\Desktop\小练习\事件的标准用法1\bin\Debug\事件的标准用法1.pdb
+C:\Users\yanh\Desktop\小练习\事件的标准用法1\obj\Debug\事件的标准用法1.exe
+C:\Users\yanh\Desktop\小练习\事件的标准用法1\obj\Debug\事件的标准用法1.pdb
+C:\Users\yanh\Desktop\小练习\事件的标准用法1\obj\Debug\事件的标准用法1.csprojResolveAssemblyReference.cache
+C:\Users\yanh\Desktop\Latest\小练习\事件的标准用法1\bin\Debug\事件的标准用法1.exe.config
+C:\Users\yanh\Desktop\Latest\小练习\事件的标准用法1\bin\Debug\事件的标准用法1.exe
+C:\Users\yanh\Desktop\Latest\小练习\事件的标准用法1\bin\Debug\事件的标准用法1.pdb
+C:\Users\yanh\Desktop\Latest\小练习\事件的标准用法1\obj\Debug\事件的标准用法1.exe
+C:\Users\yanh\Desktop\Latest\小练习\事件的标准用法1\obj\Debug\事件的标准用法1.pdb
+C:\Users\yanh\Desktop\Latest\小练习\事件的标准用法1\obj\Debug\事件的标准用法1.csprojResolveAssemblyReference.cache

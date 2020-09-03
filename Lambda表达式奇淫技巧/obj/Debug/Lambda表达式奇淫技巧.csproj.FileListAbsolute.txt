@@ -1,0 +1,15 @@
+F:\练习\电商\小练习\Lambda表达式奇淫技巧\bin\Debug\Lambda表达式奇淫技巧.exe.config
+F:\练习\电商\小练习\Lambda表达式奇淫技巧\bin\Debug\Lambda表达式奇淫技巧.exe
+F:\练习\电商\小练习\Lambda表达式奇淫技巧\bin\Debug\Lambda表达式奇淫技巧.pdb
+F:\练习\电商\小练习\Lambda表达式奇淫技巧\obj\Debug\Lambda表达式奇淫技巧.exe
+F:\练习\电商\小练习\Lambda表达式奇淫技巧\obj\Debug\Lambda表达式奇淫技巧.pdb
+C:\Users\yanh\Desktop\小练习\Lambda表达式奇淫技巧\bin\Debug\Lambda表达式奇淫技巧.exe.config
+C:\Users\yanh\Desktop\小练习\Lambda表达式奇淫技巧\bin\Debug\Lambda表达式奇淫技巧.exe
+C:\Users\yanh\Desktop\小练习\Lambda表达式奇淫技巧\bin\Debug\Lambda表达式奇淫技巧.pdb
+C:\Users\yanh\Desktop\小练习\Lambda表达式奇淫技巧\obj\Debug\Lambda表达式奇淫技巧.exe
+C:\Users\yanh\Desktop\小练习\Lambda表达式奇淫技巧\obj\Debug\Lambda表达式奇淫技巧.pdb
+C:\Users\yanh\Desktop\Latest\小练习\Lambda表达式奇淫技巧\bin\Debug\Lambda表达式奇淫技巧.exe.config
+C:\Users\yanh\Desktop\Latest\小练习\Lambda表达式奇淫技巧\bin\Debug\Lambda表达式奇淫技巧.exe
+C:\Users\yanh\Desktop\Latest\小练习\Lambda表达式奇淫技巧\bin\Debug\Lambda表达式奇淫技巧.pdb
+C:\Users\yanh\Desktop\Latest\小练习\Lambda表达式奇淫技巧\obj\Debug\Lambda表达式奇淫技巧.exe
+C:\Users\yanh\Desktop\Latest\小练习\Lambda表达式奇淫技巧\obj\Debug\Lambda表达式奇淫技巧.pdb

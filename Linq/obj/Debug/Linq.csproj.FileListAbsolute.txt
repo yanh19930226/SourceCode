@@ -1,0 +1,10 @@
+C:\Users\yanh\Desktop\小练习\Linq\bin\Debug\Linq.dll
+C:\Users\yanh\Desktop\小练习\Linq\bin\Debug\Linq.pdb
+C:\Users\yanh\Desktop\小练习\Linq\obj\Debug\Linq.dll
+C:\Users\yanh\Desktop\小练习\Linq\obj\Debug\Linq.pdb
+C:\Users\yanh\Desktop\小练习\Linq\obj\Debug\Linq.csprojResolveAssemblyReference.cache
+C:\Users\yanh\Desktop\Latest\小练习\Linq\bin\Debug\Linq.dll
+C:\Users\yanh\Desktop\Latest\小练习\Linq\bin\Debug\Linq.pdb
+C:\Users\yanh\Desktop\Latest\小练习\Linq\obj\Debug\Linq.dll
+C:\Users\yanh\Desktop\Latest\小练习\Linq\obj\Debug\Linq.pdb
+C:\Users\yanh\Desktop\Latest\小练习\Linq\obj\Debug\Linq.csprojResolveAssemblyReference.cache

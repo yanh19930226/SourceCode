@@ -1,0 +1,15 @@
+F:\练习\电商\小练习\LambdaExpression\bin\Debug\LambdaExpression.exe.config
+F:\练习\电商\小练习\LambdaExpression\bin\Debug\LambdaExpression.exe
+F:\练习\电商\小练习\LambdaExpression\bin\Debug\LambdaExpression.pdb
+F:\练习\电商\小练习\LambdaExpression\obj\Debug\LambdaExpression.exe
+F:\练习\电商\小练习\LambdaExpression\obj\Debug\LambdaExpression.pdb
+C:\Users\yanh\Desktop\小练习\LambdaExpression\bin\Debug\LambdaExpression.exe.config
+C:\Users\yanh\Desktop\小练习\LambdaExpression\bin\Debug\LambdaExpression.exe
+C:\Users\yanh\Desktop\小练习\LambdaExpression\bin\Debug\LambdaExpression.pdb
+C:\Users\yanh\Desktop\小练习\LambdaExpression\obj\Debug\LambdaExpression.exe
+C:\Users\yanh\Desktop\小练习\LambdaExpression\obj\Debug\LambdaExpression.pdb
+C:\Users\yanh\Desktop\Latest\小练习\LambdaExpression\bin\Debug\LambdaExpression.exe.config
+C:\Users\yanh\Desktop\Latest\小练习\LambdaExpression\bin\Debug\LambdaExpression.exe
+C:\Users\yanh\Desktop\Latest\小练习\LambdaExpression\bin\Debug\LambdaExpression.pdb
+C:\Users\yanh\Desktop\Latest\小练习\LambdaExpression\obj\Debug\LambdaExpression.exe
+C:\Users\yanh\Desktop\Latest\小练习\LambdaExpression\obj\Debug\LambdaExpression.pdb

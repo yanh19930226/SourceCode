@@ -1,0 +1,6 @@
+F:\练习\电商\小练习\泛型的逆变和协变\bin\Debug\泛型的逆变和协变.exe.config
+F:\练习\电商\小练习\泛型的逆变和协变\bin\Debug\泛型的逆变和协变.exe
+F:\练习\电商\小练习\泛型的逆变和协变\bin\Debug\泛型的逆变和协变.pdb
+F:\练习\电商\小练习\泛型的逆变和协变\obj\Debug\泛型的逆变和协变.csprojResolveAssemblyReference.cache
+F:\练习\电商\小练习\泛型的逆变和协变\obj\Debug\泛型的逆变和协变.exe
+F:\练习\电商\小练习\泛型的逆变和协变\obj\Debug\泛型的逆变和协变.pdb

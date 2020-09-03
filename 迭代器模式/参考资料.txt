@@ -1,0 +1,109 @@
+﻿
+对于迭代器的理解：
+
+
+1.迭代器的接口中定义了一些方法；
+2.对什么聚合要实现一个该聚合的具体的迭代器，那就把这个聚合传到这个迭代器中
+
+↓↓↓↓↓↓↓↓
+
+① 聚合中使用yield
+3. 理解了HelloCollection自定义集合的过程，和使用yield时生成的状态机原理→→→→→项目迭代器模式中的HelloCollection
+
+               public class HelloCollection
+			   {
+			      public IEnumerator GetEnumerator()
+				  {
+				     yield return "";
+				  }
+			   }
+   反编译代码：public class HelloCollection
+			   {
+					public IEnumerator GetEnumerator()
+				    {
+						Enumerator tor=new Enumerator();
+						return tor;
+					}
+			   }
+			   public class Enumerator:IEnumerator
+			   {
+			       .....
+			   }
+  
+↓↓↓↓↓↓↓↓
+②方法中返回IEnumerable<T>
+
+这个放回的类型做了很多的事情，应该这么理解：
+
+1.编译器生成了一个聚合，然后这个聚合里面有一些方法来一个一个的访问这个聚合里的么一个元素，
+  还生成了一个返回类型是IEnumerator的getEnumerator的方法，这个方法就是返回这个类的对象，
+  然后调用这个对象的方法来访问这个聚合的元素，这个总的方法放回的类型是IEnumerable,现在就可以不返回
+  这个类型了，我自己定义一个方法，把这个类的对象传出去，然后外面也是可以循坏的
+
+
+  //本质是生成了一个聚合
+  public class myyield
+  {
+     状态机
+     priave int state;
+
+     public T current{};
+
+	 publc bool MoveNext()//这个方法里保存了所有的数据
+	 {
+	   switch(state)
+	   {
+	      case"":
+		     return true;
+			 state=
+		     break;
+		  case"":
+		     break;
+		  case"":
+		     break;
+	   }
+	 }
+
+	 //提供外部获取
+	 public 随便的一个类型 getThis()//因为外部的方法要的类型是随便的一个类型，所以只能继承这个接口了
+	 {
+	     return  this;
+	 }
+  }
+
+
+
+
+
+为什么方法是返回IEnumeble<T>,最重要的一点：是因为使用的是内部迭代器吧生成的迭代器实现了IEnumerable接口
+			   static IEnumerable<int> GetPassedScores()
+			   {
+			   
+			   }
+
+
+
+////对于foreach的理解：
+
+foreach (var c in charList)
+
+代码首先执行到foreach语句的charList处获得迭代器CharIterator的实例，然后代码执行到in会调用迭代器的MoveNext方法，最后变量c会得到迭代器Current属性的值；前面的步骤结束后，会开始一轮新的循环，调用MoveNext方法，获取Current属性的值。
+
+通过C# 1.0中迭代器的代码看到，要实现一个迭代器就要实现IEnumerator接口，然后实现IEnumerator接口中的MoveNext、Reset方法和Current属性。
+
+在C# 2.0中可以直接使用yield语句来简化迭代器的实现。 如上面public IEnumerator GetEnumerator()方法中注释掉的部分. 通过上面的代码可以看到，通过使用yield return语句，我们可以替换掉整个CharIterator类。 yield return语句就是告诉编译器，要实现一个迭代器块。如果GetEnumerator方法的返回类型是非泛型接口，那么迭代器块的生成类型（yield type）是object，否则就是泛型接口的类型参数。
+
+
+//yield
+
+在C# 2.0中可以直接使用yield语句来简化迭代器的实现。 如上面public IEnumerator GetEnumerator()方法中注释掉的部分. 通过上面的代码可以看到，通过使用yield return语句，我们可以替换掉整个CharIterator类。 yield return语句就是告诉编译器，要实现一个迭代器块。如果GetEnumerator方法的返回类型是非泛型接口，那么迭代器块的生成类型（yield type）是object，否则就是泛型接口的类型参数。
+
+
+
+迭代器参考资料：http://www.cnblogs.com/libingql/p/3638608.html
+
+yield 参考资料：http://www.jb51.net/article/54810.htm
+                http://blog.csdn.net/cbbbc/article/details/50232929
+				http://blog.csdn.net/ghw1419/article/details/8598913
+
+

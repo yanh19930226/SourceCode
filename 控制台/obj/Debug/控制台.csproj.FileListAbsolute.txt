@@ -1,0 +1,10 @@
+C:\Users\yanh\Desktop\Latest\小练习\控制台\bin\Debug\控制台.exe.config
+C:\Users\yanh\Desktop\Latest\小练习\控制台\bin\Debug\控制台.exe
+C:\Users\yanh\Desktop\Latest\小练习\控制台\bin\Debug\控制台.pdb
+C:\Users\yanh\Desktop\Latest\小练习\控制台\obj\Debug\控制台.csprojResolveAssemblyReference.cache
+C:\Users\yanh\Desktop\Latest\小练习\控制台\obj\Debug\控制台.exe
+C:\Users\yanh\Desktop\Latest\小练习\控制台\obj\Debug\控制台.pdb
+C:\Users\yanh\Desktop\Latest\小练习\控制台\bin\Debug\数据结构.exe
+C:\Users\yanh\Desktop\Latest\小练习\控制台\bin\Debug\数据结构非泛型.dll
+C:\Users\yanh\Desktop\Latest\小练习\控制台\bin\Debug\数据结构.pdb
+C:\Users\yanh\Desktop\Latest\小练习\控制台\bin\Debug\数据结构非泛型.pdb

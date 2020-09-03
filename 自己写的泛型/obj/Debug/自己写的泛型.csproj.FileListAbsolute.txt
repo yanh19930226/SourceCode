@@ -1,0 +1,15 @@
+F:\练习\电商\小练习\自己写的泛型\bin\Debug\自己写的泛型.exe.config
+F:\练习\电商\小练习\自己写的泛型\bin\Debug\自己写的泛型.exe
+F:\练习\电商\小练习\自己写的泛型\bin\Debug\自己写的泛型.pdb
+F:\练习\电商\小练习\自己写的泛型\obj\Debug\自己写的泛型.exe
+F:\练习\电商\小练习\自己写的泛型\obj\Debug\自己写的泛型.pdb
+C:\Users\yanh\Desktop\小练习\自己写的泛型\bin\Debug\自己写的泛型.exe.config
+C:\Users\yanh\Desktop\小练习\自己写的泛型\bin\Debug\自己写的泛型.exe
+C:\Users\yanh\Desktop\小练习\自己写的泛型\bin\Debug\自己写的泛型.pdb
+C:\Users\yanh\Desktop\小练习\自己写的泛型\obj\Debug\自己写的泛型.exe
+C:\Users\yanh\Desktop\小练习\自己写的泛型\obj\Debug\自己写的泛型.pdb
+C:\Users\yanh\Desktop\Latest\小练习\自己写的泛型\bin\Debug\自己写的泛型.exe.config
+C:\Users\yanh\Desktop\Latest\小练习\自己写的泛型\bin\Debug\自己写的泛型.exe
+C:\Users\yanh\Desktop\Latest\小练习\自己写的泛型\bin\Debug\自己写的泛型.pdb
+C:\Users\yanh\Desktop\Latest\小练习\自己写的泛型\obj\Debug\自己写的泛型.exe
+C:\Users\yanh\Desktop\Latest\小练习\自己写的泛型\obj\Debug\自己写的泛型.pdb

@@ -1,0 +1,6 @@
+C:\Users\yanh\Desktop\Latest\小练习\控制台2\bin\Debug\控制台2.exe.config
+C:\Users\yanh\Desktop\Latest\小练习\控制台2\bin\Debug\控制台2.exe
+C:\Users\yanh\Desktop\Latest\小练习\控制台2\bin\Debug\控制台2.pdb
+C:\Users\yanh\Desktop\Latest\小练习\控制台2\obj\Debug\控制台2.exe
+C:\Users\yanh\Desktop\Latest\小练习\控制台2\obj\Debug\控制台2.pdb
+C:\Users\yanh\Desktop\Latest\小练习\控制台2\obj\Debug\控制台2.csprojResolveAssemblyReference.cache

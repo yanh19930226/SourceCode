@@ -1,0 +1,15 @@
+F:\练习\电商\小练习\观察者模式\bin\Debug\观察者模式.exe.config
+F:\练习\电商\小练习\观察者模式\bin\Debug\观察者模式.exe
+F:\练习\电商\小练习\观察者模式\bin\Debug\观察者模式.pdb
+F:\练习\电商\小练习\观察者模式\obj\Debug\观察者模式.exe
+F:\练习\电商\小练习\观察者模式\obj\Debug\观察者模式.pdb
+C:\Users\yanh\Desktop\小练习\观察者模式\bin\Debug\观察者模式.exe.config
+C:\Users\yanh\Desktop\小练习\观察者模式\bin\Debug\观察者模式.exe
+C:\Users\yanh\Desktop\小练习\观察者模式\bin\Debug\观察者模式.pdb
+C:\Users\yanh\Desktop\小练习\观察者模式\obj\Debug\观察者模式.exe
+C:\Users\yanh\Desktop\小练习\观察者模式\obj\Debug\观察者模式.pdb
+C:\Users\yanh\Desktop\Latest\小练习\观察者模式\bin\Debug\观察者模式.exe.config
+C:\Users\yanh\Desktop\Latest\小练习\观察者模式\bin\Debug\观察者模式.exe
+C:\Users\yanh\Desktop\Latest\小练习\观察者模式\bin\Debug\观察者模式.pdb
+C:\Users\yanh\Desktop\Latest\小练习\观察者模式\obj\Debug\观察者模式.exe
+C:\Users\yanh\Desktop\Latest\小练习\观察者模式\obj\Debug\观察者模式.pdb
